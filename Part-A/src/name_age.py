@@ -1,21 +1,21 @@
-Calculate users birth year with name and age which they input.
+#Calculate users birth year with name and age which they input.
 
-Input:
-    String: Name entered by user
-    Interger: Age ented by user
-    Third input not required we only need name and age
+#Input:
+  #  String: Name entered by user
+    # Interger: Age ented by user
+   # Third input not required we only need name and age
 
-Process:
-    Subtract age from the current year given by the imported date and time
+#Process:
+ #   Subtract age from the current year given by the imported date and time
 
-Output:
-    Printed name and age of the person
+#Output:
+ #   Printed name and age of the person
 
-Typical usage example:
-    What is your name? Sutton
-    How old are you? 25
-    Hello Sutton! You were born in 2001. 
-"""
+#Typical usage example:
+#    What is your name? Sutton
+ #   How old are you? 25
+  #  Hello Sutton! You were born in 2001. 
+
 # === Imports ===
 from datetime import date
 
@@ -25,8 +25,8 @@ CURRENT_YEAR = date.today().year  # Get current year from system as integer
 
 
 # === Main Function ===
-def main() -> None:
-    """Run the name-age program."""
+# def main() -> None:
+ #   """Run the name-age program."""
 
     # Get user input.
     name = input("What is your name? ")
@@ -40,8 +40,8 @@ def main() -> None:
 
 
 # === Main Guard ===
-if __name__ == "__main__":
-    main()
+# if __name__ == "__main__":
+#    main()
 
 
 # === References ===
