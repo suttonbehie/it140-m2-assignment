@@ -1,35 +1,25 @@
-# Assignment 2-3 Part B – IDE Features Reflection
+
 
 ## Introduction
 
-> Write a short reflection on your experience using the course IDE to complete your first programming assignment. Briefly describe what it was like to write, run, and test code in an IDE for the first time. Introduce the three IDE features you selected and briefly explain why learning to use IDE features can help you as a beginning programmer. Save specific examples for the feature sections below. Delete these instructions when done.
 
-TODO: Replace with your introduction here.
+So the IDE was very hard to use. Like a desktop on a desktop. I had a very hard time opening up my github files on the codio and end up just rewriting everything. There were a lot of buttons that I was unsure about their purpose and opened my eyes to realizing there is like so much to learn. A little scary but maybe good scary. 
 
-## Feature 1 – TODO: Replace with name of your Feature1
 
-> In one paragraph, identify the first feature you selected, explain what it does, and describe how it helped you while developing or testing your program. Include specific details about how it improved your workflow, made coding easier, or helped you find and fix errors more efficiently. Delete these instructions when done.
 
-TODO: Replace with your Feature 1 paragraph here.
+Spell check
 
-## Feature 2 – TODO: Replace with name of your Feature2
+The spell check is exactly what it sounds like. Any misspelled words it would help you correct before running the program. Sometimes it will even type something out for you where you can tab and insert the suggestions.  This allows for faster workflow. 
 
-> Write one paragraph explaining your second feature. Describe how it functions, what benefits it provided while coding, and why it might be valuable for beginning programmers. Connect the feature to your personal experience using it in this project. Delete these instructions when done.
+Output 
 
-TODO: Replace with your Feature 2 paragraph here.
+The output is similar to what we've seen on zybooks. It would spit out a working output if nothing was wrong with your code or spit out a bunch of errors if something was wrong. It even tells you if your code is right at the end. This didn't really tell me much other than that something was wrong. 
 
-## Feature 3 – TODO: Replace with name of your Feature3
 
-> In a single paragraph, identify and explain a third IDE feature. Discuss how it enhanced your programming experience or supported best practices such as readability, debugging, or organization. Give a brief, real example of how you used it. Delete these instructions when done.
+Problems
+The problems tab was a sort of jumbled list of issues with your code. It told you all sorts of thing about each line of code. It made it very easy to pinpoint the exact problems so you could go in and fix them. This  made fixing problems a lot easier since sometimes the eye misses things. 
 
-TODO: Replace with your Feature 3 paragraph here.
 
 ## Conclusion
 
-> Summarize what you learned from using your IDE in this assignment. Reflect on how these features will support your future programming work and improve your confidence as a new programmer. Delete these instructions when done.
-
-TODO: Replace with your conclusion here.
-
-## References
-
-TODO: Replace with your source citations here in APA style, if any. Delete section heading and this text if not used.
+I really need practice with IDEs. I feel like they could be a lot cleaner and more aesthetically pleasing to just help with organization. However I need to just learn to use codio by practicing. I have a program idea in mind that I want to try and do at work so I will try to use codio for that. I could also use some github practice, I was feeling really disorganized on that platform and could watch a few videos on how to use it best. Other than that this project was a learning experience and hopefully it'll help with our next project.  
